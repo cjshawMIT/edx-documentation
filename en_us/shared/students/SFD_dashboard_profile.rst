@@ -134,8 +134,9 @@ with other participants in the courses that you take. If you choose to add
 profile information, course teams and other learners in your courses can view
 the information that you share.
 
-In addition to your username, your profile can include a profile image, your
-location, your language, and other information about yourself.
+In addition to your username, your profile can include a profile image, the
+date that you joined edX, your location, your language, some information about
+yourself, and links to your social media accounts.
 
 You can share either a limited profile or a full profile.
 
@@ -149,13 +150,15 @@ You can share either a limited profile or a full profile.
     :width: 500
     :alt: A learner's limited profile showing only username and image.
 
-* A full profile includes biographical information in addition to your username
-  and profile image.
+* A full profile includes your username, your profile image, the date that you
+  joined edX, and biographical information and links to your social media
+  account pages, if you choose to add them.
 
   .. image:: ../../shared/images/SFD_Profile_Full.png
     :width: 500
-    :alt: A learner's full profile shows location, language, and short
-     biographical paragraph in addition to username and image.
+    :alt: A learner's full profile shows join date, location, language,
+      biographical information, and linked social media icons in addition to
+      username and image.
 
 
 .. _Create or Edit a Limited Profile:
@@ -219,6 +222,8 @@ information in addition to your username and profile image.
   other information that you want to share. This paragraph can contain up to
   300 characters.
 
+* Links to your personal social media accounts.
+
 To add or update your profile, follow these steps.
 
 #. At the top of any page, select **Profile** from the dropdown menu icon next
@@ -255,6 +260,44 @@ The site saves your changes automatically.
    visible on your profile page. However, this information is saved, and
    becomes visible again to other learners and course teams if you change your
    profile back to **Full Profile**.
+
+
+.. _Add Profile Links to Social Media Accounts:
+
+=================================================
+Add Links to Your Personal Social Media Accounts
+=================================================
+
+If you choose to display a full profile, you can optionally add social media
+icons on your profile that link to your personal Twitter, Facebook, or
+LinkedIn account pages.
+
+To add links to your social media accounts to your profile, follow these steps.
+
+#. At the top of any page, select **Account** from the dropdown menu icon next
+   to your username.
+
+#. On **Account Settings** page, under **Social Media Links**, enter either
+   your username or the full URL to the profile page for each social media
+   account that you want to add to your profile.
+
+   For example, if your Facebook username is ``edx``, you can enter either
+   ``edx`` or ``https://www.facebook.com/edx``.
+
+   For LinkedIn, note that your username might include numbers. For example,
+   if the URL of your LinkedIn profile page is ``https://www.linkedin.com/in
+   /firstname-lastname-123456/``, your LinkedIn username is ``firstname-
+   lastname-123456``.
+
+The site saves your changes when you click again outside the text field.
+
+When you view your profile, the social media icons for which you added links
+appear below your username. Other learners or course team members can now
+click those icons to visit your social media account page.
+
+  .. image:: ../../shared/images/SFD_Profile_Full_SocialMediaIcons.png
+    :width: 500
+    :alt: A learner's full profile, with social media icons circled.
 
 
 ================================
