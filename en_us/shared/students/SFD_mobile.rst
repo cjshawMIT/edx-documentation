@@ -95,7 +95,8 @@ complete an entire course, you use a web browser on a computer.
 
  When you create an account, you are asked for the following information.
 
- * Your full name. This name is used on certificates that you earn.
+ * Your full name. This name is used on certificates that you earn and is
+   shown on your edX profile if you share a full profile.
  * The username that will identify you to course teams and to other learners.
  * A password.
  * The country or region that you live in.
@@ -124,7 +125,8 @@ complete an entire course, you use a web browser on a computer.
  that the profile page on edx.org shows more information than the profile in
  the mobile app shows.
 
- For more information about creating or editing your edX profile, see :ref:`SFD Profile Page`.
+ For more information about creating or editing your edX profile, see
+ :ref:`Adding a Profile<SFD Profile Page>`.
 
 
  ==================================================
