@@ -126,7 +126,7 @@ complete an entire course, you use a web browser on a computer.
  the mobile app shows.
 
  For more information about creating or editing your edX profile, see
- :ref:`Adding a Profile<SFD Profile Page>`.
+ :ref:`Adding Profile Information<SFD Profile Page>`.
 
 
  ==================================================
