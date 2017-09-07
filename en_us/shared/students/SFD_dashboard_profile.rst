@@ -152,15 +152,15 @@ You can share either a limited profile or a full profile.
 
 * A full profile includes the following details.
 
-  * your full name
-  * your username
-  * your profile image (optional)
-  * the date that you joined edX
-  * your language (optional)
-  * your location (optional)
-  * information about you (optional)
-  * links to any course certificates that you have earned
-  * links to your social media account (optional)
+  * Your full name
+  * Your username
+  * Your profile image (optional)
+  * The date that you joined edX
+  * Your language (optional)
+  * Your location (optional)
+  * Information about you (optional)
+  * Links to any course certificates that you have earned
+  * Links to your social media account (optional)
 
   .. image:: ../../shared/images/SFD_Profile_Full.png
     :width: 500
