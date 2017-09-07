@@ -265,10 +265,10 @@ To add or update your profile, follow these steps.
 The site saves your changes automatically.
 
 .. note:: If you change your profile type from **Full Profile** to **Limited
-   Profile**, your location, language, and descriptive paragraph are no longer
-   visible on your profile page. However, this information is saved, and
-   becomes visible again to other learners and course teams if you change your
-   profile back to **Full Profile**.
+   Profile**, your full name, location, language, and descriptive paragraph
+   are no longer visible on your profile page. However, this information is
+   saved, and becomes visible again to other learners and course teams if you
+   change your profile back to **Full Profile**.
 
 
 .. _Add Profile Links to Social Media Accounts:
