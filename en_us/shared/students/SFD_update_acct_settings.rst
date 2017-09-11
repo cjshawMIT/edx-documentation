@@ -82,7 +82,8 @@ To update your email address, follow these steps.
 Change Your Full Name
 *************************
 
-Your full name appears on the certificates that you earn, and on your learner profile page if you select **Full Profile** for profile visibility.
+Your full name appears on the certificates that you earn, and on your learner
+profile page if you select **Full Profile** for profile visibility.
 
 .. note:: You can change your full name, but you cannot change your username.
 

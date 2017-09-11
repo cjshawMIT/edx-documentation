@@ -134,10 +134,6 @@ with other participants in the courses that you take. If you choose to add
 profile information, course teams and other learners in your courses can view
 the information that you share.
 
-In addition to your username, your profile can include a profile image, the
-date that you joined edX, your location, your language, some information about
-yourself, and links to your social media accounts.
-
 You can share either a limited profile or a full profile.
 
   .. note:: If you are under 13 years of age, your limited profile only
@@ -160,14 +156,13 @@ You can share either a limited profile or a full profile.
   * Your location (optional)
   * Information about you (optional)
   * Links to any course certificates that you have earned
-  * Links to your social media account (optional)
+  * Links to your social media accounts (optional)
 
   .. image:: ../../shared/images/SFD_Profile_Full.png
     :width: 500
     :alt: A learner's full profile shows full name, join date, location,
-     language, biographical information, links to course certificates that you
-     have earned, and linked social media icons in addition to username and
-     profile image.
+     language, biographical information, links to course certificates, and
+     linked social media icons, in addition to username and profile image.
 
 
 .. _Create or Edit a Limited Profile:
